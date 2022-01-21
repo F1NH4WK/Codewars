@@ -32,5 +32,3 @@ function tribonacci(signature,n){
     }
     return signature.slice(0, n); //retornar o valor requisitado
   }
-
-  
